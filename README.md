@@ -10,3 +10,8 @@
 
 1. Numbered item
 2. Another item
+
+```python
+# code block with language
+print("hello")
+```
